@@ -49,7 +49,7 @@ router.post("/info",function(req,res){
             }
         })
         if(list.length==0){
-            res.render("/campgrounds/nodoctor");
+            res.render("campgrounds/nodoctor");
         } else {
         res.render("campgrounds/alldoctors",{doc_available:list});  
         }      
