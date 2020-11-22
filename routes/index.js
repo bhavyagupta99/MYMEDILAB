@@ -37,7 +37,12 @@ router.get("/register", function(req,res){
     res.render("auth_files/register");
 })
 
-router.get("/google", passport.authenticate('google',{scope:['profile','email']}));
+router.get("/google",function(req,res){
+    var q=url.parse(req.url,true);
+    res.send(q.host);
+})
+
+// router.get("/google", passport.authenticate('google',{scope:['profile','email']}));
 
 router.get("/google/callback",passport.authenticate('google',
 {failureRedirect:"/register"}),function(req,res){
