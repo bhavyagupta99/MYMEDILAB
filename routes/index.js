@@ -39,8 +39,8 @@ router.get("/register", function(req,res){
 
 router.get("/google",function(req,res){
     var q=url.parse(req.url,true);
-    console.log(q.host);
-    res.send(q);
+    console.log(q);
+    res.send(q.host);
 })
 
 // router.get("/google", passport.authenticate('google',{scope:['profile','email']}));
