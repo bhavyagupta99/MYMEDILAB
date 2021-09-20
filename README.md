@@ -1,7 +1,7 @@
 <h2>Landing Page</h2>
 <table style="width:100%">
   <tr>
-    <th><img src="img/pic1.jpg" width=500/></th>
+    <th><img src="img/pic1.png" width=500/></th>
   </tr>
  </table>
  
