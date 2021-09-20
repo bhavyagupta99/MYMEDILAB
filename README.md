@@ -1,2 +1,2 @@
-<img src=”https://github.com/knaxus/problem-solving-javascript/blob/master/.github/dsa.jpeg" alt=”my banner”>
+<img src=”img/2020-04-14.jpg" alt=”my banner”>
                                                                                                                
