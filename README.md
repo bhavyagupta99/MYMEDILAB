@@ -1,2 +1,2 @@
-<img src=”https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
+<img src=”https://github.com/knaxus/problem-solving-javascript/blob/master/.github/dsa.jpeg" alt=”my banner”>
                                                                                                                
