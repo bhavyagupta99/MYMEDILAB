@@ -1,3 +1,14 @@
+<h2>Introduction</h2>
+<p>
+It is an online web application which would cater the needs of
+●	Students
+●	Doctors
+Keeping in view the ongoing difficulties experienced by students to book slots for dispensary during their busy schedule I designed an online platform to solve this problem. The proposed project is a smart appointment booking system that provides patients or any user an easy way of booking a doctor’s appointment online. This is a web based application that overcomes the issue of managing and booking appointments according to user’s choice or demands. The task sometimes becomes very tedious for the compounder or doctor himself in manually allotting appointments for the users as per their availability. Hence this project offers an effective solution where users can view various booking slots available and select the preferred date and time. The already booked space will be marked and will not be available for anyone else for the specified time. This system also allows users to cancel their booking anytime.
+</p>  
+
+<h1><i>Tour of the project</i></h1>
+
+
 <h2>Landing Page</h2>
 <table style="width:100%">
   <tr>
