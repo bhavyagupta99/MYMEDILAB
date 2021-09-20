@@ -1,4 +1,4 @@
-<h1><i><a href="https://tu-naaks-2020.herokuapp.com/">Link to the webapp<i></a></h1>
+<h1><i><a href="https://tu-naaks-2020.herokuapp.com/">Click to visit the webapp<i></a></h1>
   
 <h2>Introduction</h2>
 <p>
